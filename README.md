@@ -1,4 +1,4 @@
-# WiFi Pineapple Mark 7 Modules 
+## WiFi Pineapple Mark 7 Modules 
 
 This repository contains modules for the WiFi Pineapple Mark 7. All the community developed modules are here, and developers should create pull requests for any changes to modules, and to submit new modules.
 
